@@ -1,0 +1,128 @@
+%% Creator: Inkscape inkscape 0.92.3, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'pendel.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{842.00006104bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.37410924)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{pendel.pdf}}%
+    \put(0.18134443,0.1998346){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{pendel.pdf}}%
+    \put(0.17462499,0.18642276){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kraft\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{pendel.pdf}}%
+    \put(0.04289972,0.14791783){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{pendel.pdf}}%
+    \put(0.01601522,0.12758376){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pendelreferenz\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{pendel.pdf}}%
+    \put(0.17150187,0.13926504){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PID(s)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{pendel.pdf}}%
+    \put(0.16261924,0.11633513){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PID	Regler\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{pendel.pdf}}%
+    \put(0.96874868,0.28636253){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{pendel.pdf}}%
+    \put(0.95817605,0.2729507){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Winkel\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{pendel.pdf}}%
+    \put(0.7228065,0.1868554){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CS1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{pendel.pdf}}%
+    \put(0.7228065,0.16954982){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CS2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{pendel.pdf}}%
+    \put(0.75272624,0.17820261){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CS3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{pendel.pdf}}%
+    \put(0.7326423,0.15354215){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Wagen\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{pendel.pdf}}%
+    \put(0.82231363,0.35125849){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CS1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{pendel.pdf}}%
+    \put(0.8322373,0.32659802){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pendel\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{pendel.pdf}}%
+    \put(0.7271329,0.30799452){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}B\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{pendel.pdf}}%
+    \put(0.7599324,0.30799452){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}F\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{pendel.pdf}}%
+    \put(0.8123021,0.26170207){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Winkel_Sensor\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{pendel.pdf}}%
+    \put(0.66256821,0.27035486){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Initializierung\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{pendel.pdf}}%
+    \put(0.58868821,0.23011937){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}B\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{pendel.pdf}}%
+    \put(0.62148771,0.21714018){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}F\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{pendel.pdf}}%
+    \put(0.58868821,0.13926504){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}B\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{pendel.pdf}}%
+    \put(0.62148771,0.13926504){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}F\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{pendel.pdf}}%
+    \put(0.37531573,0.27338334){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Env\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{pendel.pdf}}%
+    \put(0.32850276,0.25737567){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Enviromentale	mechanische\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{pendel.pdf}}%
+    \put(0.3299494,0.24699232){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Zusammenhänge	(Gravität)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{pendel.pdf}}%
+    \put(0.4642705,0.05403502){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Reibungskraft\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{pendel.pdf}}%
+    \put(0.45995088,0.18382693){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bewebungskraft\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{pendel.pdf}}%
+    \put(0.85558633,0.11330665){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}p\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{pendel.pdf}}%
+    \put(0.85605953,0.09600107){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}v\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{pendel.pdf}}%
+    \put(0.81606743,0.0799934){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Wagen_Sensor\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{pendel.pdf}}%
+    \put(0.79359721,0.06961005){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(Position,	Geschwindigkeit)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{pendel.pdf}}%
+    \put(0.61557949,0.03543153){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=33]{pendel.pdf}}%
+    \put(0.54293659,0.01509746){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Skalierungsfaktor	der	Geschwindigkeit\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=34]{pendel.pdf}}%
+    \put(0.96874868,0.11330665){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=35]{pendel.pdf}}%
+    \put(0.955783,0.09989482){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Position\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=36]{pendel.pdf}}%
+  \end{picture}%
+\endgroup%
